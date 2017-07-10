@@ -2,4 +2,6 @@
     <string name="app_name">M Coffee</string>
     <string name="user">User :</string>
     <string name="password">Password :</string>
+    <string name="have_space">Have Space</string>
+    <string name="message_have_space">Please Fill All Every blank</string>
 </resources>
